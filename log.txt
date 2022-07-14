@@ -1,0 +1,12 @@
+nohup: ignoring input
+[2022-03-10 22:23:10 +0700] [31479] [INFO] Starting gunicorn 20.1.0
+[2022-03-10 22:23:10 +0700] [31479] [INFO] Listening at: http://0.0.0.0:2031 (31479)
+[2022-03-10 22:23:10 +0700] [31479] [INFO] Using worker: sync
+[2022-03-10 22:23:10 +0700] [31482] [INFO] Booting worker with pid: 31482
+[2022-03-11 00:34:48 +0700] [31479] [INFO] Handling signal: hup
+[2022-03-11 00:34:48 +0700] [31479] [INFO] Hang up: Master
+[2022-03-11 00:34:48 +0700] [31479] [WARNING] Worker with pid 31482 was terminated due to signal 1
+[2022-03-11 00:34:48 +0700] [583] [INFO] Booting worker with pid: 583
+[2022-03-16 22:25:34 +0700] [583] [INFO] Worker exiting (pid: 583)
+[2022-03-16 22:25:34 +0700] [31479] [INFO] Handling signal: term
+[2022-03-16 22:25:35 +0700] [31479] [INFO] Shutting down: Master

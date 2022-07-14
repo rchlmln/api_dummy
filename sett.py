@@ -1,0 +1,6 @@
+Secretkey = " "
+DBuser = " "
+DBpassword = " "
+DBhost = " "
+DBport = " "
+DBdatabase = " "
